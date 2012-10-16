@@ -1,6 +1,10 @@
 Changelog
 =========
 
+0.0.5
+-----
+#. Enable support for AJAX loaded captchas.
+
 0.0.4
 -----
 #. Handle missing REMOTE_ADDR request meta key. Thanks Joe Jasinski.

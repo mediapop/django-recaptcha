@@ -14,4 +14,4 @@ Other
 -----
 * Brooks Travis
 * `Denis Mishchishin <https://github.com/denz>`_
-
+* Kit Sunde http://www.mediapop.co
