@@ -63,6 +63,12 @@ The reCAPTCHA widget supports several `Javascript options variables <https://cod
 
 The captcha client takes the key/value pairs and writes out the RecaptchaOptions value in JavaScript.
 
+AJAX
+~~~~~~~~~~~~
+
+To dynamic CAPTCHA's just load the Ajax API before the widget:
+
+    <script src="http://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
 
 Unit Testing
 ~~~~~~~~~~~~
